@@ -2,7 +2,7 @@
 
 class Program
 {
-    static int Operation(int number_one, int number_two, char symbol)
+       static int Maths(int number_one, int number_two, char symbol)
     {
         switch (symbol)
         {
@@ -28,16 +28,15 @@ class Program
 
     static void Main()
     {
-        Console.Write("Enter first number: ");
-        int number_one = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter the numbers: ");
+        string input = Console.ReadLine();
+        string[] parts = input.Split(' ');
+        char symbol = Convert.ToChar(parts[1]);
+        int number_one = Convert.ToInt32(parts[0]);
+        int number_two = Convert.ToInt32(parts[2]);
 
-        Console.Write("Enter second number: ");
-        int number_two = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("Enter operator (+, -, *, /): ");
-        char symbol = Convert.ToChar(Console.ReadLine());
-
-        int result = Operation(number_one, number_two, symbol);
+        int result = Maths(number_one, number_two, symbol);
         Console.WriteLine("Result: " + result);
     }
 }
