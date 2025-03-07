@@ -1,0 +1,14 @@
+C:\Vs code\ele with .net\bin\Debug\net8.0\ele with .net.exe
+C:\Vs code\ele with .net\bin\Debug\net8.0\ele with .net.deps.json
+C:\Vs code\ele with .net\bin\Debug\net8.0\ele with .net.runtimeconfig.json
+C:\Vs code\ele with .net\bin\Debug\net8.0\ele with .net.dll
+C:\Vs code\ele with .net\bin\Debug\net8.0\ele with .net.pdb
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.AssemblyInfoInputs.cache
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.AssemblyInfo.cs
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.csproj.CoreCompileInputs.cache
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.dll
+C:\Vs code\ele with .net\obj\Debug\net8.0\refint\ele with .net.dll
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.pdb
+C:\Vs code\ele with .net\obj\Debug\net8.0\ele with .net.genruntimeconfig.cache
+C:\Vs code\ele with .net\obj\Debug\net8.0\ref\ele with .net.dll
